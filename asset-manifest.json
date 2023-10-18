@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pdonahu1/developer-portfolio.git/static/css/main.8ece23b1.css",
+    "main.js": "/pdonahu1/developer-portfolio.git/static/js/main.b5bb6070.js",
+    "static/media/autoAuto.png": "/pdonahu1/developer-portfolio.git/static/media/autoAuto.2a6ab0a243cec5fe1769.png",
+    "static/media/berg.png": "/pdonahu1/developer-portfolio.git/static/media/berg.8dc65acc3f9337ab7456.png",
+    "static/media/chatter.png": "/pdonahu1/developer-portfolio.git/static/media/chatter.5ef2759d8577cafa5a16.png",
+    "static/media/weBlog.png": "/pdonahu1/developer-portfolio.git/static/media/weBlog.98f0ae828b24e2d20c88.png",
+    "static/media/starship.png": "/pdonahu1/developer-portfolio.git/static/media/starship.5347372b821708570b5b.png",
+    "static/media/CV.pdf": "/pdonahu1/developer-portfolio.git/static/media/CV.f06c8375b8938cd264b9.pdf",
+    "static/media/avatar1.jpg": "/pdonahu1/developer-portfolio.git/static/media/avatar1.2ce3bcdf203974014f7d.jpg",
+    "static/media/text-editor.png": "/pdonahu1/developer-portfolio.git/static/media/text-editor.e23cbd9b2ecbd77502a2.png",
+    "static/media/e.png": "/pdonahu1/developer-portfolio.git/static/media/e.d62e7ce6d044402661ce.png",
+    "index.html": "/pdonahu1/developer-portfolio.git/index.html",
+    "main.8ece23b1.css.map": "/pdonahu1/developer-portfolio.git/static/css/main.8ece23b1.css.map",
+    "main.b5bb6070.js.map": "/pdonahu1/developer-portfolio.git/static/js/main.b5bb6070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ece23b1.css",
+    "static/js/main.b5bb6070.js"
+  ]
+}
