@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.b1e51a1b.css",
-    "main.js": "/developer-portfolio/static/js/main.2a75805c.js",
+    "main.js": "/developer-portfolio/static/js/main.77452eaa.js",
     "static/media/autoAuto.png": "/developer-portfolio/static/media/autoAuto.2a6ab0a243cec5fe1769.png",
-    "static/media/berg.png": "/developer-portfolio/static/media/berg.8dc65acc3f9337ab7456.png",
     "static/media/bloger2.png": "/developer-portfolio/static/media/bloger2.2a9a968b05e52440bf71.png",
-    "static/media/weBlog.png": "/developer-portfolio/static/media/weBlog.98f0ae828b24e2d20c88.png",
+    "static/media/laravel-blog.png": "/developer-portfolio/static/media/laravel-blog.826eb5721ebb0e3a7584.png",
+    "static/media/mern-blog-user-registration.png": "/developer-portfolio/static/media/mern-blog-user-registration.a529a677e11486f2f5bc.png",
     "static/media/full-stack-mern.png": "/developer-portfolio/static/media/full-stack-mern.fd72b16e28c4e4901d4f.png",
     "static/media/CV.pdf": "/developer-portfolio/static/media/CV.f06c8375b8938cd264b9.pdf",
     "static/media/avatar1.jpg": "/developer-portfolio/static/media/avatar1.2ce3bcdf203974014f7d.jpg",
@@ -13,10 +13,10 @@
     "static/media/e.png": "/developer-portfolio/static/media/e.7cf421fa6defa351c718.png",
     "index.html": "/developer-portfolio/index.html",
     "main.b1e51a1b.css.map": "/developer-portfolio/static/css/main.b1e51a1b.css.map",
-    "main.2a75805c.js.map": "/developer-portfolio/static/js/main.2a75805c.js.map"
+    "main.77452eaa.js.map": "/developer-portfolio/static/js/main.77452eaa.js.map"
   },
   "entrypoints": [
     "static/css/main.b1e51a1b.css",
-    "static/js/main.2a75805c.js"
+    "static/js/main.77452eaa.js"
   ]
 }
