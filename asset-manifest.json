@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.bbcb39c1.css",
-    "main.js": "/developer-portfolio/static/js/main.0a6de788.js",
+    "main.js": "/developer-portfolio/static/js/main.7138e6a5.js",
     "static/media/autoAuto.png": "/developer-portfolio/static/media/autoAuto.2a6ab0a243cec5fe1769.png",
     "static/media/bloger2.png": "/developer-portfolio/static/media/bloger2.2a9a968b05e52440bf71.png",
     "static/media/laravel-blog.png": "/developer-portfolio/static/media/laravel-blog.826eb5721ebb0e3a7584.png",
@@ -12,10 +12,10 @@
     "static/media/e.png": "/developer-portfolio/static/media/e.7cf421fa6defa351c718.png",
     "index.html": "/developer-portfolio/index.html",
     "main.bbcb39c1.css.map": "/developer-portfolio/static/css/main.bbcb39c1.css.map",
-    "main.0a6de788.js.map": "/developer-portfolio/static/js/main.0a6de788.js.map"
+    "main.7138e6a5.js.map": "/developer-portfolio/static/js/main.7138e6a5.js.map"
   },
   "entrypoints": [
     "static/css/main.bbcb39c1.css",
-    "static/js/main.0a6de788.js"
+    "static/js/main.7138e6a5.js"
   ]
 }
